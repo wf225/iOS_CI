@@ -404,7 +404,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = XcodeServerTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.autodesk.XcodeServerTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.autodesk.aud.XcodeServerTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c304d285-2d7c-42f6-8b88-e15780485f73";
 			};
@@ -418,7 +418,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = XcodeServerTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.autodesk.XcodeServerTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.autodesk.aud.XcodeServerTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c304d285-2d7c-42f6-8b88-e15780485f73";
 			};
